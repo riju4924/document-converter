@@ -1,9 +1,3 @@
-Awesome 😄
-Here’s a **clean, professional, GitHub-ready `README.md`** you can **copy-paste directly**.
-This is written exactly the way **recruiters, viva examiners, and reviewers expect**.
-
----
-
 # 📄 Document Converter (Word ↔ PDF)
 
 A simple and efficient **Streamlit-based Python application** that allows users to convert documents between **Word (.docx)** and **PDF (.pdf)** formats using a clean graphical interface.
